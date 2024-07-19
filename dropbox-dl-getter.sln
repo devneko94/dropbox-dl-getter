@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dropbox-dl-getter", "dropbox-dl-getter\dropbox-dl-getter.csproj", "{0EA470B7-E54E-4241-80C0-A92CDE413E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EA470B7-E54E-4241-80C0-A92CDE413E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA470B7-E54E-4241-80C0-A92CDE413E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA470B7-E54E-4241-80C0-A92CDE413E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA470B7-E54E-4241-80C0-A92CDE413E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5414705C-1E15-42EA-BF70-725402C0D5E2}
+	EndGlobalSection
+EndGlobal
